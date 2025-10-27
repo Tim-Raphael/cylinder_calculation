@@ -33,7 +33,7 @@ public class CylinderCalculation {
         //
         // Coming from Rust; Display triggering side effects, i.e. io 
         // (System.out), may seem like an anti pattern, but I think it would've
-        // been fine, especially when looking a the scope of this code.
+        // been fine, especially when looking at the scope of this programm.
         //
         // It should be easier to reason what is happening here: 
         Dimensions dimesions = processInputs();
